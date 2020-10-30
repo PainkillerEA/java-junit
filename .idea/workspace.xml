@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db8ba072-1d4e-4289-adf3-0377edff8210" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HomeTaskFromVV/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/task/from/vv/Dao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/task/from/vv/DaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/task/from/vv/Entity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/task/from/vv/Service.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home/task/from/vv/ServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/home/task/from/vv/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/home/task/from/vv/DaoImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="313">
+              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -359,7 +351,7 @@
       <workItem from="1603270860055" duration="1064000" />
       <workItem from="1603615304372" duration="4136000" />
       <workItem from="1604089754365" duration="2512000" />
-      <workItem from="1604092881400" duration="667000" />
+      <workItem from="1604092881400" duration="915000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1604093312582</created>
@@ -382,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604093480132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="removed target">
+      <created>1604093572039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604093572039</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -418,7 +417,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8379000" />
+    <option name="totallyTimeSpent" value="8627000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -470,7 +469,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="changed gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed gitignore" />
+    <MESSAGE value="removed target" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed target" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/Assert.java">
@@ -582,8 +582,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="313">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
         </state>
       </provider>
     </entry>
